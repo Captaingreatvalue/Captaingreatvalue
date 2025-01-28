@@ -1,6 +1,5 @@
 <h1>Hi, I'm Fred! <br/><a href="https://github.com/joshmadakor1">IT Specialist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
 
 
 <h2> 🤳 Connect with me:</h2>
