@@ -1,4 +1,4 @@
-<h1>Hi, I'm Fred! <br/><a href="https://github.com/joshmadakor1">IT Specialist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, I'm Fred! <br/><a href="https://github.com/Captaingreatvalue">IT Specialist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
 
 
 
