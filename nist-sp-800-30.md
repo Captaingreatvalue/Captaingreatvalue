@@ -1,8 +1,7 @@
-FROM https://docs.google.com/document/d/1pRpdpQMEWskxSkwqEMv8W7A7x8GXQlcn0hEcDzWet3Y/template/preview?resourcekey=0-3GRRWAd8HryVgof-Jc33yA
 
----------------------------
----------------------------
----------------------------
+
+[//]: # (https://docs.google.com/document/d/1pRpdpQMEWskxSkwqEMv8W7A7x8GXQlcn0hEcDzWet3Y/template/preview?resourcekey=0-3GRRWAd8HryVgof-Jc33yA)
+
 
 
 # NIST SP 800-30 Rev. 1
