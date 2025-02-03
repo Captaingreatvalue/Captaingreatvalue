@@ -8,12 +8,12 @@
 
 
 
-I have a great security mindset that will enable me to solve criticle issues as well as prevent major incidents .
+I have a great security mindset that will enable me to solve critical issues as well as prevent major incidents.
 
 ## Objective
 
 
-My Journey during the Cybersecurity Google certificate has led me to this new found passion and I am excited to explore it with your company.
+My Journey in Cybersecurity has been both exciting and rewarding, and I would be delighted to contribute my skills to your company.
 
 ## Skills
 
