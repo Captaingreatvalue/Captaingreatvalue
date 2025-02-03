@@ -8,13 +8,11 @@
 
 
 
-I have a great security mindset that will enable me to solve critical issues as well as prevent major incidents.
-
+I have developed a solid security mindset, allowing me to address critical issues proactively and prevent major incidents from happening.
 ## Objective
 
 
-My Journey in Cybersecurity has been both exciting and rewarding, and I would be delighted to contribute my skills to your company.
-
+Pursing a career in cybersecurity has been a highly rewarding and exciting experience for me, and I am ready to apply my skills to drive success at your company.
 ## Skills
 
 | Skill                                         | Associated Project                |
