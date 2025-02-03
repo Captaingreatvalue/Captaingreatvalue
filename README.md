@@ -8,7 +8,7 @@
 
 
 
-me have developed a solid security mindset, allowing me to address critical issues proactively and prevent major incidents from happening.
+I have developed a solid security mindset, allowing me to address critical issues proactively and prevent major incidents from happening.
 ## Objective
 
 
