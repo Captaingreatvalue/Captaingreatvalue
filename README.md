@@ -46,7 +46,5 @@ My Journey during the Cybersecurity Google certificate has led me to this new fo
 <img src="https://img.shields.io/badge/Google%20Cybersecurity-FF0000?&style=for-the-badge&logo=CompTIA" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
 
