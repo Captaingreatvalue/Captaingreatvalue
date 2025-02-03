@@ -4,7 +4,7 @@
 
 
 # Vulnerability Assessment Report
-### 1st January 20XX
+### 1st January 2025
 ------------------------------------------------------
 
 ### System Description
@@ -16,9 +16,9 @@ servers on the network. Security measures include SSL/TLS encrypted connections.
 
 ### Scope
 The scope of this vulnerability assessment relates to the current access controls of the system.
-The assessment will cover a period of three months, from June 20XX to August 20XX.  [NIST SP800-30 Rev. 1](./nist-sp-800-30.md)  is used to guide the risk analysis of the information system.
+The assessment will cover a period of three months, from June 2025 to August 2025.  [NIST SP800-30 Rev. 1](./nist-sp-800-30.md)  is used to guide the risk analysis of the information system.
 
-CLICK-HERE-2
+
 
 ### Purpose
 The database server is a centralized computer system that stores and manages large amounts

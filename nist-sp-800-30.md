@@ -21,7 +21,7 @@ information, reflect changes in technology and regulatory requirements, or addre
 
 <b>Note:</b> NIST's [Computer Security Resources Center](https://csrc.nist.gov/pubs/sp/800/30/r1/final) contains more information on SP 800-30 Rev. 1.
 
-CLICK-HERE-3
+
 
 ### Threat sources
 NIST SP 800-30 defines and categorizes threat sources as entities or circumstances that can
